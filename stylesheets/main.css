@@ -3,7 +3,7 @@ body,html{
 }
 
 .parallax{
-    background-image: url('images/mountain.jpg');
+    background-image: url('/images/mountain.jpg');
     height: 100%;
     background-attachment: fixed;
     background-position: center;
